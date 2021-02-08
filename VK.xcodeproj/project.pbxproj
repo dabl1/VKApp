@@ -41,6 +41,7 @@
 		048B017125850CD6008BBA9B /* MyGroupsCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 048B017025850CD6008BBA9B /* MyGroupsCell.swift */; };
 		04B78CB425BA28C6000956BF /* LikeControl.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04B78CB325BA28C6000956BF /* LikeControl.swift */; };
 		04BED61D258C187F00C7A6F5 /* GraphicsVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04BED61C258C187F00C7A6F5 /* GraphicsVC.swift */; };
+		04FA9C3A25D1D96A001C379E /* LoadingIndicator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04FA9C3925D1D96A001C379E /* LoadingIndicator.swift */; };
 		B4EB510C2587DDC100DA899E /* VKUser.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4EB510B2587DDC100DA899E /* VKUser.swift */; };
 		B4EB51102587E2C800DA899E /* AvatarImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4EB510F2587E2C800DA899E /* AvatarImage.swift */; };
 /* End PBXBuildFile section */
@@ -82,6 +83,7 @@
 		048B017025850CD6008BBA9B /* MyGroupsCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyGroupsCell.swift; sourceTree = "<group>"; };
 		04B78CB325BA28C6000956BF /* LikeControl.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LikeControl.swift; sourceTree = "<group>"; };
 		04BED61C258C187F00C7A6F5 /* GraphicsVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GraphicsVC.swift; sourceTree = "<group>"; };
+		04FA9C3925D1D96A001C379E /* LoadingIndicator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoadingIndicator.swift; sourceTree = "<group>"; };
 		B4EB510B2587DDC100DA899E /* VKUser.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VKUser.swift; sourceTree = "<group>"; };
 		B4EB510F2587E2C800DA899E /* AvatarImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AvatarImage.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -248,6 +250,7 @@
 				04BED61C258C187F00C7A6F5 /* GraphicsVC.swift */,
 				040F11B525896F5E001BF6A6 /* AvatarImageGroup.swift */,
 				B4EB510F2587E2C800DA899E /* AvatarImage.swift */,
+				04FA9C3925D1D96A001C379E /* LoadingIndicator.swift */,
 			);
 			path = Graphics;
 			sourceTree = "<group>";
@@ -369,6 +372,7 @@
 				048492322582E4200041ADD4 /* AllFreindsTableController.swift in Sources */,
 				0411BC122580FFF70022FF5A /* AppDelegate.swift in Sources */,
 				04BED61D258C187F00C7A6F5 /* GraphicsVC.swift in Sources */,
+				04FA9C3A25D1D96A001C379E /* LoadingIndicator.swift in Sources */,
 				047ECC7725BB0B250014277F /* UIView.swift in Sources */,
 				0470663825C1C22A003F6C2F /* UIImage.swift in Sources */,
 				0411BC142580FFF70022FF5A /* SceneDelegate.swift in Sources */,
